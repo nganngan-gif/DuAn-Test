@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/EditUser/edit.jsp=UTF-8
+encoding//WebContent/views/home/adminIndex.jsp=UTF-8
+encoding//WebContent/views/home/index.jsp=UTF-8
+encoding//src/DAO/UserDAO.java=UTF-8

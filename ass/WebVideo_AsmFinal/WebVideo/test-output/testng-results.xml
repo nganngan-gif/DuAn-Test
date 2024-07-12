@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27713" started-at="2022-04-21T00:33:14 ICT" finished-at="2022-04-21T00:33:42 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27713" started-at="2022-04-21T00:33:14 ICT" finished-at="2022-04-21T00:33:42 ICT">
+      <class name="testExcel.TestExcelDelete">
+        <test-method status="PASS" signature="suiteTest()[pri:0, instance:testExcel.TestExcelDelete@5fcd892a]" name="suiteTest" is-config="true" duration-ms="4564" started-at="2022-04-21T00:33:14 ICT" finished-at="2022-04-21T00:33:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:testExcel.TestExcelDelete@5fcd892a]" name="Login" duration-ms="2675" started-at="2022-04-21T00:33:19 ICT" description="Login web is Admin" finished-at="2022-04-21T00:33:22 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="DeleteTest()[pri:2, instance:testExcel.TestExcelDelete@5fcd892a]" name="DeleteTest" duration-ms="19400" started-at="2022-04-21T00:33:22 ICT" description="Test Excel Delete" finished-at="2022-04-21T00:33:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTest -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:testExcel.TestExcelDelete@5fcd892a]" name="suiteTearDown" is-config="true" duration-ms="1045" started-at="2022-04-21T00:33:41 ICT" finished-at="2022-04-21T00:33:42 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- testExcel.TestExcelDelete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
